@@ -46,6 +46,7 @@
   </a>
 </div>
 
+<!-- 
 <div align="center">
   <h2>📊 My statistics</h2>
 </div>
@@ -56,7 +57,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vesperalin&layout=compact&theme=onedark" alt="stats"/>&nbsp;
-</div>
+</div> -->
 
 <div align="center">
   <h2>🧐 Check out my projects down below</h2>
