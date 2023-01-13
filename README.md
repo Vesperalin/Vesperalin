@@ -46,18 +46,16 @@
   </a>
 </div>
 
-<!-- 
 <div align="center">
   <h2>📊 My statistics</h2>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vesperalin&show_icons=true&theme=onedark" alt="stats"/>&nbsp;
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vesperalin&layout=compact&theme=onedark" alt="stats"/>&nbsp;
-</div> -->
+<table>
+    <tr>
+      <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Vesperalin&show_icons=true&theme=onedark&count_private=true" alt="stats"/></td>
+      <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vesperalin&layout=compact&theme=onedark" alt="stats"/></td>
+    </tr>
+</table>
 
 <div align="center">
   <h2>🧐 Check out my projects down below</h2>
