@@ -10,7 +10,7 @@
   <h2>👩🏼‍💻 About me</h2>
 </div>
 
-<p>My name is Klaudia Błażyczek and I am a third year student of BSc Applied Computer Science at Wrocław University of Science and Technology. My journey with coding started many years ago with C++. Next I got familiar with basics of Swift at my high school. Then I understood that coding was for me.</p>
+<p>My name is Klaudia Błażyczek and I am a BSc in Applied Computer Science at Wrocław University of Science and Technology. My journey with coding started many years ago with C++. Next I got familiar with basics of Swift at my high school. Then I understood that coding was for me.</p>
 <p>During my journey I learned many programming languages and technologies, but I fell in love with frontend. I constantly broaden my knowledge and skills to create better web apps.</p>
 
 <div align="center">
