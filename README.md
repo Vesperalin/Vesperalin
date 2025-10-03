@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <img src="/assets/programming.gif" width="300"/>
+    <img src="/assets/coding.webp" width="360"/>
 </div>
 
 <p align="justify">
